@@ -1,0 +1,151 @@
+body {
+    font-family: 'Sofia Sans', sans-serif;
+}
+
+section {
+    background-color: white ;
+}
+
+.hero {
+    background-color: gray ;
+    height: 100vh;
+    color:black;
+    font-size: 40px;
+}
+
+footer {
+    height: 500px;
+    background-color: darkblue;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    width: 500px;
+    justify-content: space-around;
+    font-size: 30px;
+}
+
+li {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 60px;
+    margin: 0;
+
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    margin: 0;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.subtext {
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.hero-area {
+    display: flex;
+    height: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.hero-text {
+    margin-left: 80px;
+    margin-bottom: 200px;
+}
+
+.button {
+    width: 175px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: chocolate;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 400;
+    padding-top: 5px;
+    margin-top: 20px;
+}
+
+.button:hover {
+    background-color: coral;
+
+}
+
+.button:active {
+    background-color: beige;
+    color: gray;
+}
+
+.sub-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+}
+
+.sub-section-alternative {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 80px;
+}
+.headshot {
+    width: 400px;
+    border-radius: 200 px;
+}
+
+.headshot-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.work-card {
+    width: 300px;
+    height: 500px;
+    box-shadow: 5px 5px 20px gray;
+    margin: 10px;
+}
+
+.work-container {
+    display: flex;
+    align-self: auto;    
+    justify-content: space-around;
+}
+
+.work-image {
+    margin-top: 20px;
+    width: 200px;
+    border-radius: 125px;
+}
+
+hr {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.work-link {
+    text-decoration: none;
+    color: chocolate;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+.media {
+    padding-bottom: 200px;
+}
+
