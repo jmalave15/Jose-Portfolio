@@ -20,7 +20,12 @@ https://jmalave15.github.io/Jose-Portfolio/
 - The non-placholder applications will take the user to the deployed application on my GitHub when clicked on.
 
 ## Screenshot
-![screenshot]
+![screenshot](src/screen1.png)
+![screenshot](src/screen2.png)
+![screenshot](src/screen3.png)
+
+###Brought to you by 
+Jose J Malave Romero
 
 
 
