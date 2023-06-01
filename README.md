@@ -25,7 +25,7 @@ https://jmalave15.github.io/Jose-Portfolio/
 ![screenshot](src/screen3.png)
 
 ### Brought to you by 
-Jose J Malave Romero
+[Jose Malave on GitHub] (http://github.com/jmalave15)
 
 
 
